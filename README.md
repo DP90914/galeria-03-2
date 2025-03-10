@@ -1,1 +1,6 @@
-# galeria-03-2
+# galeria-flex
+galeria que utiliza o flex para realizar uma galeria
+## tecnologia
+* flex
+* HTML
+* CSS
